@@ -1,2 +1,0 @@
-# smt
-neptune
